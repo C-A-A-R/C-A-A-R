@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola, soy Carlos Aragoza! 👋
 
-<!--
-**C-A-A-R/C-A-A-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy un estudiante universitario apasionado por la ciencia de datos, el machine learning y la creación de inteligencia artificial. También me intriga el mundo de la robótica, especialmente cuando se combina con MicroPython.
 
-Here are some ideas to get you started:
+## Habilidades técnicas
+- **Python**: Mi lenguaje de programación favorito. Lo domino a nivel experto y he trabajado con librerías como Django, Flask, NumPy y Pandas.
+- **SQL**: Tengo experiencia en bases de datos y consultas SQL.
+- **HTML y CSS**: Aunque mis conocimientos en estos lenguajes son básicos, puedo crear páginas web sencillas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- **Chatbot para WhatsApp**: Desarrollé un chatbot que automatiza respuestas en WhatsApp. Fue un proyecto divertido y útil.
+- **Aplicación web para publicidad en pantallas LED**: Junto con compañeros de la universidad, creamos una aplicación web que facilita la publicación de anuncios en pantallas LED utilizando IoT.
+
+## Colaboración
+- Estoy abierto tanto a trabajar en solitario como en equipo. Adaptaré mi enfoque según las necesidades del proyecto.
+
+## Contacto
+- Aunque no tengo presencia profesional en línea, puedes encontrarme en mis redes sociales personales.
+
+
