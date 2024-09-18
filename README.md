@@ -1,7 +1,7 @@
 # ¡Hola, soy Carlos Aragoza! 👋
 
 ## Acerca de mí
-Soy un estudiante universitario apasionado por la ciencia de datos, el machine learning y la creación de inteligencia artificial. También me intriga el mundo de la robótica, especialmente cuando se combina con MicroPython.
+Soy un estudiante universitario apasionado por la ciencia de datos, el machine learning y la creación de inteligencia artificial. También me intriga el mundo de la robótica
 
 ## Habilidades técnicas
 - **Python**: Mi lenguaje de programación favorito. Lo domino a nivel experto y he trabajado con librerías como Django, Flask, NumPy y Pandas.
