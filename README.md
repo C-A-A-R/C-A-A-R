@@ -1,21 +1,70 @@
-# ¡Hola, soy Carlos Aragoza! 👋
+# 👨‍💻 Carlos Aragoza  
+**Técnico Superior en Informática | Desarrollo Móvil | Backend | Automatización | Data**
 
-## Acerca de mí
-Soy un estudiante universitario apasionado por la ciencia de datos, el machine learning y la creación de inteligencia artificial. También me intriga el mundo de la robótica
+📧 **Correo:** romeroaragozaca@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/carlos-alberto-aragoza-romero-b161b0297  
+💻 **GitHub:** https://github.com/C-A-A-R  
 
-## Habilidades técnicas
-- **Python**: Mi lenguaje de programación favorito. Lo domino a nivel experto y he trabajado con librerías como Django, Flask, NumPy y Pandas.
-- **SQL**: Tengo experiencia en bases de datos y consultas SQL.
-- **HTML y CSS**: Aunque mis conocimientos en estos lenguajes son básicos, puedo crear páginas web sencillas.
+---
 
-## Proyectos destacados
-- **Chatbot para WhatsApp**: Desarrollé un chatbot que automatiza respuestas en WhatsApp. Fue un proyecto divertido y útil.
-- **Aplicación web para publicidad en pantallas LED**: Junto con compañeros de la universidad, creamos una aplicación web que facilita la publicación de anuncios en pantallas LED utilizando IoT.
+## 🧩 Perfil Profesional  
+Técnico Superior en Informática con experiencia en desarrollo de aplicaciones móviles, backend, análisis de datos (Pandas, NumPy y visualización), automatización con n8n y desarrollo multiplataforma con Flutter. Responsable, autodidacta y orientado a resultados, siempre aprendiendo y actualizándome. Interesado en crecer hacia proyectos de Inteligencia Artificial y Machine Learning.
 
-## Colaboración
-- Estoy abierto tanto a trabajar en solitario como en equipo. Adaptaré mi enfoque según las necesidades del proyecto.
+---
 
-## Contacto
-- Aunque no tengo presencia profesional en línea, puedes encontrarme en mis redes sociales personales.
+## 🎓 Formación  
+- **Técnico Superior en Informática**  
+- **Certificación en Robótica** (capacitación breve)  
+- **Ingeniería en Informática – En curso**
 
+---
 
+## 🛠️ Habilidades Técnicas  
+
+**Lenguajes y Frameworks:**  
+Python · Dart · Django REST Framework · Flask · Flutter  
+
+**Bases de Datos:**  
+MySQL · SQLite  
+
+**Data & Automatización:**  
+NumPy · Pandas · Matplotlib · n8n  
+
+**Herramientas:**  
+Git  
+
+---
+
+## 🤝 Habilidades Blandas  
+- Organización y trabajo en equipo  
+- Resolución de problemas  
+- Constancia y compromiso  
+- Aprendizaje autodidacta  
+- Curiosidad y actualización constante en tecnología  
+
+---
+
+## 🚀 Proyectos Destacados  
+
+### **MAVI**  
+Aplicación web para la gestión y automatización de publicidad en pantallas LED.
+
+### **Recepcionista Virtual**  
+Software de escritorio para Windows que gestiona eventos con calendario, listas de invitados y bienvenida multimedia mediante QR.
+
+### **Chatbot de WhatsApp**  
+Automatización de atención al cliente a través de WhatsApp usando flujos y lógica personalizada.
+
+### **App móvil de pedidos de comida (en desarrollo)**  
+Sistema dividido en 3 apps: **Cliente**, **Administrador**, **Repartidor**. Gestión de pedidos, pagos, estadísticas y logística de entrega.
+
+### **Sistema completo de gestión y juego de Bingo**  
+Aplicación de escritorio para administrar y ejecutar juegos de bingo: tablero interactivo, control de partidas, cartones, ganadores y exportaciones. Construida con arquitectura limpia.
+
+### **Automatizaciones con n8n**  
+Flujos automatizados tipo agentes: secretarial, publicitario y gestión de redes sociales.
+
+---
+
+## 🌐 Información Adicional  
+- **Idiomas:** Español nativo, inglés básico  
